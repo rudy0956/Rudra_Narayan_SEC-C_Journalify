@@ -9,7 +9,6 @@ Built with Spring Boot and MongoDB, Journalify ensures a seamless experience wit
 
 🎥 Video Explanation
 📽️ Click here to watch the video
-https://drive.google.com/file/d/1GZINRh1NZ5AiX7rCqEh0tdCr0J7rOU41/view?usp=drivesdk
 
 🛠️ Technologies Used
 Java 17
@@ -29,14 +28,14 @@ Postman (Testing APIs)
 Maven (Project management)
 
 🚀 Steps to Run/Execute the Project
-Prerequisites
+🔹 Prerequisites
 Java 17 installed
 
 Maven installed
 
 MongoDB installed and running locally
 
-Setup Instructions
+🔹 Setup Instructions
 Clone the repository:
 
 bash
@@ -49,7 +48,7 @@ bash
 Copy
 Edit
 cd Journalify
-Install dependencies and build:
+Install dependencies and build the project:
 
 bash
 Copy
@@ -71,7 +70,7 @@ Test the APIs:
 
 Use Postman to test endpoints like registration, login, create/update journal entries.
 
-JWT Token authentication must be used for protected routes.
+Make sure to use JWT Token authentication for protected routes.
 
 ✨ Key Features
 User Registration and Login
@@ -82,19 +81,17 @@ Create, View, Update, Delete Journal Entries
 
 MongoDB Document Mapping with Spring Data
 
-Secure Password Storage (BCrypt)
+Secure Password Storage (BCrypt Encryption)
 
 Role-based Access Control (Admin/User)
 
 Automatic API documentation using Swagger
 
-Email Notifications (Optional enhancement)
+(Optional) Email Notifications on updates
 
-📌 Important
-Always use the Bearer token in Postman for authenticated API access.
+📌 Important Notes
+Always use the Bearer token in Postman for accessing secured APIs.
 
-MongoDB must be running on default port 27017 unless configured otherwise.
+Ensure MongoDB is running on default port 27017 unless configured otherwise.
 
-Designed with ❤️ Rudra Narayan Dash
-
-🚀 Ready to Go!
+🚀 Designed with ❤️ by Rudra Narayan Dash
