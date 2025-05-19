@@ -10,6 +10,11 @@ Built with Spring Boot and MongoDB, Journalify ensures a seamless experience wit
 🎥 Video Explanation
 📽️ Click here to watch the video:
 https://drive.google.com/file/d/1GZINRh1NZ5AiX7rCqEh0tdCr0J7rOU41/view?usp=drivesdk
+
+# Presentation
+You can view the project presentation here:  
+📽️ [View Presentation](https://docs.google.com/presentation/d/12JxZF8h9snFA5Ql6-CPViDvQUyhXh3Gq/edit?usp=drivesdk&ouid=102459727644345485852&rtpof=true&sd=true)
+
 🛠️ Technologies Used
 Java 17
 
@@ -39,7 +44,7 @@ MongoDB installed and running locally
 🔹 Setup Instructions:
 
 Clone the repository:
-git clone https://github.com/yourusername/Journalify.git
+git clone https://github.com/rudy0956/Journalify.git
 
 Navigate to the project directory:
 cd Journalify
