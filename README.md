@@ -7,9 +7,8 @@ Journalify is a secure and user-friendly web application that allows users to ma
 It provides features like user registration, authentication (JWT-based), creating, updating, deleting journal entries, and role-based access control.
 Built with Spring Boot and MongoDB, Journalify ensures a seamless experience with strong security and easy scalability.
 
-🎥 Video Explanation
-📽️ Click here to watch the video:
-https://drive.google.com/file/d/1GZINRh1NZ5AiX7rCqEh0tdCr0J7rOU41/view?usp=drivesdk
+## Video Explanation  
+📽️ [Click here to watch the video](https://drive.google.com/file/d/1GZINRh1NZ5AiX7rCqEh0tdCr0J7rOU41/view?usp=drivesdk)
 
 # Presentation
 You can view the project presentation here:  
